@@ -8,3 +8,11 @@
 Hyperkitty1/Hyperkitty1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+>>>>>>
+>>>>https://gitlab.com/mailman/hyperkitty
+>>>>>>
+>>>>https://pypi.org/project/HyperKitty/
+>>>>>>
+>>>>https://m.youtube.com/watch?v=w-1Q7u5894E
+>>>>>>
+>>>>https://github.com/hyperkitty/kittystore
