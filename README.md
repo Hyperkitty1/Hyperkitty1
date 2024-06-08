@@ -1,5 +1,6 @@
 Open Source ✅
-
+License
+MIT
 
 - 👋 Hi, I’m @Hyperkitty1
 - 👀 I’m interested in dropping trends and how the Earth started
